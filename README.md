@@ -1,6 +1,47 @@
+Skip to content
+Keerthanasampathkumar
+/
+Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM
+
+Type / to search
+
+Code
+Pull requests
+Actions
+Projects
+Security
+Insights
+Files
+Go to file
+t
+README.md
+Documentation • Share feedback
+Pane width
+Use a value between 17% and 35%
+
+22
+Change width
+BreadcrumbsEx.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM
+/README.md
+Latest commit
+Keerthanasampathkumar
+Keerthanasampathkumar
+Update README.md
+e615d90
+ · 
+2 days ago
+History
+File metadata and controls
+
+Preview
+
+Code
+
+Blame
+54 lines (37 loc) · 2.68 KB
 # Ex. No.2 - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
-## DATE: 
+## DATE: 03.10.2023
 
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
@@ -44,10 +85,12 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
+![272849528-274083f7-d99e-47f7-b7a0-036dbedbf28d](https://github.com/Divya110205/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/119404855/f94404c6-60f6-4f27-91ba-d485d18a0a0b)
 
 
-### Name:
-### Register Number: 
+### Name: ARHAM S
+### Register Number: 212222110005
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/README.md at main · Keerthanasampathkumar/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM 
